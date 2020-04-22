@@ -1,0 +1,8 @@
+title: Hudson Yeung
+description: I am a living potato
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
