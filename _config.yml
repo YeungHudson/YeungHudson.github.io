@@ -3,6 +3,7 @@ description: Average Computer Toucher. Welcome!
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-cayman
+baseurl: "/"
 
-gems:
+plugins:
   - jekyll-mentions
